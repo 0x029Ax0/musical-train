@@ -1,6 +1,6 @@
 <template>
     <div class="w-full bg-white p-4">
-        <div class="container flex flex-row items-center justify-between mx-auto">
+        <div class="container mx-auto max-w-screen-xl flex flex-row items-center justify-between">
             <div class="flex flex-row items-center">
                 <router-link :to="{ name: 'Home' }">
                     <AppLogo />
