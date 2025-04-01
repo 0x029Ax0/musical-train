@@ -1,5 +1,5 @@
 <template>
-    <nav class="flex container mx-auto py-6" aria-label="Breadcrumb">
+    <nav class="flex container mx-auto max-w-screen-xl py-6" aria-label="Breadcrumb">
         <div class="inline-flex items-center space-x-1 md:space-x-2 rtl:space-x-reverse">
             <!-- Home -->
             <div class="inline-flex items-center">
